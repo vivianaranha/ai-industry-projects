@@ -1,0 +1,7 @@
+Food & Beverage operating principle: decisions should be traceable to approved data, policies, and accountable owners.
+
+Food & Beverage workflow guidance: validate the incoming record, gather the relevant context, evaluate risk and exceptions, recommend the next action, and route uncertain cases for human review.
+
+AI governance guidance: use confidence thresholds, record important model outputs, monitor quality over time, protect sensitive information, and do not allow a demo model to make irreversible high-impact decisions without appropriate controls.
+
+Success measurement: define a business baseline before automation, then track cycle time, accuracy, workload reduction, user adoption, exception rate, and measurable business outcomes.
